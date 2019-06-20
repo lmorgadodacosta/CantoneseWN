@@ -1,0 +1,2 @@
+# CantoneseWN
+The Cantonese Wordnet
