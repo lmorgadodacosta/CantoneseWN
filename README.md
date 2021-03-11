@@ -10,4 +10,4 @@ Currently the Cantonese Wordnet contains over 16,500 hand-checked lemmas and res
 
 #### License
 The Cantonese wordnet is released under a Creative Commons Attribution 4.0 International License (CC BY 4.0) and its canonical citation is: 
-> Sio, Joanna Ut-Seong, & da Costa, Luis  Morgado. (2019). Building the Cantonese Wordnet. In _Proceedings of the Tenth Global Wordnet Conference_ (GWC 2019), pp. 206-215. Wroclaw, Poland. 
+> Sio, Joanna Ut-Seong, & Morgado da Costa, Luis. (2019). Building the Cantonese Wordnet. In _Proceedings of the Tenth Global Wordnet Conference_ (GWC 2019), pp. 206-215. Wroclaw, Poland. 
