@@ -1,6 +1,6 @@
 # The Cantonese Wordnet
 
-This repository contains the data for the Cantonese Wordnet project. This project was created and is continuously updated by Joanna Ut-Seong Sio (Palacký University, Czech Republic) and Luis Morgado da Costa (Palacký University, Czech Republic). 
+This repository contains the data for the Cantonese Wordnet project. This project was created and is continuously updated by Joanna Ut-Seong Sio (Palacký University, Czech Republic) and Luis Morgado da Costa (Vrije Universiteit Amsterdam, the Netherlands). 
 
 Our wordnet contains data both in traditional characters and in Jyutping (a romanisation system for Cantonese developed by the Linguistic Society of Hong Kong in 1993). The Cantonese wordnet is currently supported in two formats: 
  - the [Lexical Markup Framework](https://globalwordnet.github.io/schemas/) (LMF) compatible XML, released and maintained by the [Global Wordnet Association](http://globalwordnet.org/);
